@@ -1,0 +1,9 @@
+POST http://localhost:3000/short-url
+Content-Type: application/json
+
+{
+  
+    "url":"http://localhost:3000/ephgz"
+}
+
+
